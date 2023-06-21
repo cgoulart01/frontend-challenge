@@ -7,12 +7,12 @@ Styled-components para a estilização.
 Local storage para gerenciar o carrinho de compras.
 Implementei as seguintes funcionalidades conforme as instruções:
 
-Catálogo de produtos com paginação.
-Filtragem de produtos por categoria.
-Busca por nome do produto.
-Adicionar e remover produtos do carrinho de compras.
-Finalizar a compra.
-Para consumir a API GraphQL fornecida, executei o comando yarn start na pasta api.
+✔️Filtragem de produtos por categoria.
+✔️Busca por nome do produto.
+⌛Catálogo de produtos com paginação.
+⌛Adicionar e remover produtos do carrinho de compras.
+⌛Finalizar a compra.
+Consumi a API fornecida para o projeto de forma local, e até o presente momento a aplicação hospedada na Heroku está fora do ar, mas irei atualizar assim que possível.
 
 Minha solução está disponível no seguinte repositório: [link-para-seu-repo]. Fique à vontade para explorar o código e deixar qualquer feedback ou observação adicional.
 
@@ -28,7 +28,7 @@ yarn install
 
 ###Inicie o servidor de desenvolvimento:
 
-yarn dev
+yarn dev/npm run dev
 
 ### Acesse o aplicativo no seu navegador em:
 http://localhost:3000
