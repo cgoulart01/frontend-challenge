@@ -18,8 +18,7 @@ Implementei as seguintes funcionalidades conforme as instruções:
 ⌛Finalizar a compra.
 Consumi a API fornecida para o projeto de forma local, e até o presente momento a aplicação hospedada na Heroku está fora do ar, mas irei atualizar assim que possível.
 
-Minha solução está disponível no seguinte repositório: [link-para-seu-repo]. Fique à vontade para explorar o código e deixar qualquer feedback ou observação adicional.
-
+Minha solução está disponível no presente Repositório.
 ## Instruções de instalação
 ### Clone o repositório em sua máquina local:
 
