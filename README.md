@@ -8,9 +8,13 @@ Local storage para gerenciar o carrinho de compras.
 Implementei as seguintes funcionalidades conforme as instruções:
 
 ✔️Filtragem de produtos por categoria.
+
 ✔️Busca por nome do produto.
+
 ⌛Catálogo de produtos com paginação.
+
 ⌛Adicionar e remover produtos do carrinho de compras.
+
 ⌛Finalizar a compra.
 Consumi a API fornecida para o projeto de forma local, e até o presente momento a aplicação hospedada na Heroku está fora do ar, mas irei atualizar assim que possível.
 
